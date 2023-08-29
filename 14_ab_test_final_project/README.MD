@@ -2,7 +2,7 @@
 
 > python pandas seaborn matplotlib matplotlib.pyplot plotly.graph_objs plotly.express scipy stats math datetime
 
-* _В файле ab_test.ipynb не отображаются интерактивные воронки, поэтому полный формат проекта лучше смотреть в формате ab_test.html_
+* _В файле ab_test.ipynb не отображаются интерактивные воронки_
 
 ## Условие
 

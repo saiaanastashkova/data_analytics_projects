@@ -1,6 +1,6 @@
 # Базовые SQL запросы
 
-[ER диаграмма БД](06_sql_basic/basic_sql_description.pdf)
+[ER диаграмма БД](https://yadi.sk/i/8-M5Ubr7Fd2U8w)
 
 1. Посчитайте, сколько компаний закрылось.
 

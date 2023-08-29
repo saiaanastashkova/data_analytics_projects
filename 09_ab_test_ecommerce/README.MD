@@ -1,4 +1,5 @@
 #  Проверка гипотез для увеличения выручки интернет-магазина. А/В тесты
+>python pandas numpy matplotlib scipy seaborn datetime warnings A/B тестирование
 
 ## Условие
 

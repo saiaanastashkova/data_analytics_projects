@@ -2,7 +2,7 @@
 
 > python pandas numpy matplotlib scipy seaborn plotly math re json Map, Choropleth
 
-_В файле cafe_moscow_new.ipynb не отображаются интерактивные карты_
+_В файле cafe_moscow_new.ipynb не отображаются интерактивные карты с покраской районов по показателям_
 
 ## Условие
 

@@ -1,4 +1,5 @@
 # Анализ поведения пользователей в приложении по продаже продуктов питания. А/A/В тесты
+> python pandas numpy matplotlib scipy seaborn plotly math A/A/B тестирование
 
 ## Условие
 

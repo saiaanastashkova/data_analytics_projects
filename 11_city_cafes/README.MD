@@ -2,7 +2,7 @@
 
 > python pandas numpy matplotlib scipy seaborn plotly math re json Map, Choropleth
 
-_В файле cafe_moscow_new.ipynb не отображаются интерактивные карты, поэтому полный формат проекта лучше смотреть в формате cafe_moscow_new.html_
+_В файле cafe_moscow_new.ipynb не отображаются интерактивные карты_
 
 ## Условие
 

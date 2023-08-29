@@ -9,7 +9,7 @@
 - **Tableau, Power BI**.
 - A/B-тестирование, основы unit-экономики, когортный анализ.
 
-### 📑 [Здесь](https://github.com/saiaanastashkova/data_analytics_projects) собрано мое портфолио с пет-проектами.
+### 📑 Мое портфолио с пет-проектами собрано [здесь](https://github.com/saiaanastashkova/data_analytics_projects).
 
 ### 📲 Буду рада общению:
 [Telegram](t.me/ogonerova) | [LinkedIn](https://www.linkedin.com/in/saiaana-stashkova-786791262/) | [Instagram](https://www.instagram.com/ogonerovaa) 
